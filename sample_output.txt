@@ -1,0 +1,7 @@
+=== NUMBER GUESSING GAME ===
+
+I'm thinking of a number between 1 and 100.
+Your guess (1-100):   Too Low!
+Your guess (1-100):   Too Low!
+Your guess (1-100):   Too High!
+Your guess (1-100): 
